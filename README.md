@@ -7,11 +7,9 @@
 - Teams
 
 ## Node Packages
----
 <pre>npm install && npm run dev [&& npm run watch]</pre>
 
 ## .env
----
 <pre>
 APP_NAME=App
 APP_DOMAIN=app.test
@@ -79,7 +77,6 @@ composer require spatie/laravel-tags
 </pre>
 
 ## Configs
----
 ### app.php
 <pre>
 'debug' => isset($_REQUEST['dev']) ? true : (bool) env('APP_DEBUG', false),
