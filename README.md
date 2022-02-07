@@ -1,7 +1,6 @@
 # Laravel.vue
 
 ## Installation
----
 <pre>laravel new App --jet</pre>
 ### Options
 - Inertia,
